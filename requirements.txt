@@ -1,0 +1,14 @@
+robotframework
+requests
+robotframework-requests>=0.3.9,<0.8.0
+paramiko>=2.5.0
+robotframework-sshlibrary
+robotframework-scplibrary
+redfish
+click
+PyYAML>=5.1
+redfishtool
+robotframework-selenium2library
+webdrivermanager
+robotframework-angularjs
+robotframework-xvfb
